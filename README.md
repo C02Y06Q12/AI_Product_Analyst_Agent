@@ -133,19 +133,23 @@ Generated insight:
 ```bash
 git clone <your-repository-url>
 cd AI_Product_Analyst_Agent
+```
 
 ### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Configure API Key
 ```bash
 Create a .env file:
 DEEPSEEK_API_KEY=your_api_key
+```
 
 ### 4. Run application
 ```bash
 streamlit run app.py
+```
 
 ## 💡 Product Value
 This project explores the application of AI agents in product management workflows.
