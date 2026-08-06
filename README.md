@@ -161,8 +161,7 @@ Feature prioritization support
 
 ## 👤 Author
 Nicky Chen
-Master of Commerce (Data Analytics)
-University of Sydney
+
 Interests:
 AI Product Management
 Data Analytics
