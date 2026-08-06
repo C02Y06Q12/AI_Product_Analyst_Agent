@@ -107,6 +107,7 @@ Issue Classification & Action Recommendation
 
 ## 📸 Demo
 
+![AI Product Analyst Agent Demo](demo.png)
 
 Example input:
 
