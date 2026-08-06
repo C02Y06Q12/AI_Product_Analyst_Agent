@@ -160,7 +160,7 @@ User research assistance
 Feature prioritization support
 
 ## 👤 Author
-Nicky Chen
+Nicky
 
 Interests:
 AI Product Management
