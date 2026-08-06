@@ -1,0 +1,6 @@
+issue,category,severity,priority,recommendation
+The app crashes every time the user uploads photos.,Stability,High,Critical,"Investigate and fix the crash in the photo upload flow. Reproduce the issue, check crash logs, and address any memory or file handling bugs. Release a hotfix and add automated tests for photo uploads."
+Battery drains too fast after the latest update.,Performance,High,High,"Investigate the latest update for battery consumption regressions, optimize background processes, and release a hotfix or patch to address the drain."
+Customer service response is extremely slow.,Customer Support,High,High,"Investigate support ticket routing and staffing, implement service level agreements (SLAs) for response times, and consider adding self-service options or chatbots to reduce load."
+Navigation is confusing despite liking the new design.,Usability,Medium,High,"Conduct usability testing to identify specific navigation pain points, then simplify menu structure and add clear labels or breadcrumbs."
+The subscription price is too expensive.,Pricing,Medium,High,"Review pricing strategy, consider offering tiered plans or discounts, and communicate value proposition more clearly."
